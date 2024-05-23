@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: qr_demo
+Version: 0.0.1
+Summary: Demo app for printing QR codes
+Author: ALYF GmbH
+Author-email: hallo@alyf.de
+License-File: LICENSE
+Requires-Dist: qrcode[pil]
